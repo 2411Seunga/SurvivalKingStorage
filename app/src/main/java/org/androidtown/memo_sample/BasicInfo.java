@@ -17,12 +17,12 @@ public class BasicInfo {
 	/**
 	 * 사진 저장 위치
 	 */
-	public static String FOLDER_PHOTO 	= "MultimediaMemo/photo/";
+	public static String FOLDER_PHOTO 	= "Memo_Storage/photo/";
 
 	/**
 	 * 데이터베이스 이름
 	 */
-	public static String DATABASE_NAME = "MultimediaMemo/memo.db";
+	public static String DATABASE_NAME = "Memo_Storage/memo.db";
 
 
 	//========== 인텐트 부가정보 전달을 위한 키값 ==========//
